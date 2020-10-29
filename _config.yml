@@ -1,21 +1,21 @@
 # General Settings
 name: Evgeny Kim
-job_title: Developer Advocate
+job_title: Developer Advocate, Technical Writer
 email: evgenykim1985@gmail.com
-description: I help companies improve developer experience of their product.
+description: I help companies build the best developer experience possible. Follow me on LinkedIn or drop me a line. 
 avatar: http://kimikadze.tech/assets/images/avatar.png
 favicon: /favicon.png
-twitter_handler: your_handler
+# twitter_handler: kimmikadze
 analytics_code: UA-XXXXXXX-2
 disqus: your_disqus_site
 
 # Social Accounts
 social_networks:
--  { name: facebook, url: 'http://facebook.com' }
--  { name: twitter, url: 'http://twitter.com' }
+-  { name: facebook, url: 'https://www.facebook.com/evgeny.kim.547' }
+-  { name: twitter, url: 'https://twitter.com/kimmikadze' }
 -  { name: instagram, url: '' }
 -  { name: google-plus, url: '' }
--  { name: linkedin, url: '' }
+-  { name: linkedin, url: 'https://www.linkedin.com/in/kimmikadze/' }
 -  { name: skype, url: '' }
 -  { name: github, url: '' }
 -  { name: codepen, url: '' }
